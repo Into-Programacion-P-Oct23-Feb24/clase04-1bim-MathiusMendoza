@@ -11,7 +11,7 @@ package ejemplo01;
  */
 public class Ejemplo06 {
     public static void main(String[] args) {
-        // Uso de printf
+        // Uso de printf me permite ser mucho mas exacto en la forma de presantar un conjunto de valores en 
         // f: formato
         
         String nombreEstudiante = "René Rolando";
@@ -26,7 +26,8 @@ public class Ejemplo06 {
         // usamos %f para reemplazar los valore decimales
         // System.out.printf("%s\n\n%s\n\n%s\n", nombreEstudiante, 
         //        apellidoEstudiante, nacimiento);
-        System.out.printf("Nombre:%s\n\n%s\n\n%s\n", nombreEstudiante, 
+        System.out.printf("Nombre:%s\n\nAPELLIDO%s\n\nAÑO%s\nAño de Nacimiento",
+                nombreEstudiante, 
                 apellidoEstudiante, nacimiento);
         
     }

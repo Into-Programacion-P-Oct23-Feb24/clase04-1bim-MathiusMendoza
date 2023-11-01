@@ -14,7 +14,7 @@ public class Ejemplo04 {
         /*
         println vs print-La diferencia que exiite es que println otorga un espacio y el print no da un salta o espacio en blanco.
         */
-        */
+        
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
         int nacimiento = 1983;

@@ -31,6 +31,6 @@ public class Ejemplo05 {
         /*
         \n sirve para dar un salto de linea y \t sirve para da un espacio como la tecla de tabulador
         */
-        */
+        
     }
 }
